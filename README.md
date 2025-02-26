@@ -1,4 +1,4 @@
-#### Hi there! 👋 I'm Nabajit Ghosh, a passionate full-stack developer and AI/ML enthusiast. I love building scalable web applications and exploring the latest technologies in AI.
+### Hi there! 👋 I'm Nabajit Ghosh, a passionate full-stack developer and AI/ML enthusiast. I love building scalable web applications and exploring the latest technologies in AI.
 
 
 ## 🌐 Socials:
